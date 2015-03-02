@@ -22,4 +22,4 @@ This project took 2.5 hours to complete.
 ## Installation:
 This app has no dependencies. Just open up the project in XCode and run!
 
-![Tabber|250](http://i.imgur.com/8Ra8d4j.gif)
+![Tabber|250](https://i.imgur.com/1pJVZzk.gif)
