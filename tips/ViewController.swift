@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var totalLabel4: UILabel!
     @IBOutlet weak var totalLabel3: UILabel!
     @IBOutlet weak var totalLabel2: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.tipView.alpha = 0
